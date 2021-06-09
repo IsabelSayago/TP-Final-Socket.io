@@ -1,0 +1,26 @@
+{
+  "name": "socket-chat-hello",
+  "version": "0.0.1",
+  "description": "hello app languages",
+  "scripts": {
+    "start": "node index.js",
+    "startdev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsabelSayago/TP-Final-Socket.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsabelSayago/TP-Final-Socket.io/issues"
+  },
+  "homepage": "https://github.com/IsabelSayago/TP-Final-Socket.io#readme"
+}
